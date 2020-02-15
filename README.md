@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ##Copyright
 
 2020 training.
+
+##How to contribute
+Please fork 
