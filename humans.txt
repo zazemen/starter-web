@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tashko Mitev zazemen@abv.bg @notwitter
 
 # THANKS
 
